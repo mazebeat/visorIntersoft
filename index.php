@@ -1,10 +1,6 @@
 <?php
 include __DIR__ . '/bootstrap/start.php';
 $_SESSION['BASE64'] = '';
-
-if (!isset($_SESSION['LOGOEMPRESA'])) {
-    $_SESSION['LOGOEMPRESA'] = LOGO_EMPRESA;
-}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -35,7 +31,7 @@ if (!isset($_SESSION['LOGOEMPRESA'])) {
     <div class="row">
         <div class="col-md-12">
             <div id="logo" class="text-center">
-                <h1 class="text-center"><img src="../public/images/<?php echo $_SESSION['LOGOEMPRESA']; ?>" alt="logo" class=""></h1>
+                <h1 class="text-center"><img src="../public/images/<?php echo LOGO_EMPRESA; ?>" alt="logo" class=""></h1>
             </div>
         </div>
     </div>
@@ -103,9 +99,9 @@ if (!isset($_SESSION['LOGOEMPRESA'])) {
 
         if ($_SESSION['BASE64'] != '') {
             ?>
-            <div class="row">
-                <div class="col-sm-8 col-offset-sm-8">
-                    <div class="embed-responsive embed-responsive-16by9">
+            <div class="row" style="min-height: 400px;">
+                <div class="col-sm-8 col-sm-offset-2">
+                    <div class="embed-responsive embed-responsive-16by9" style="min-height: 600px;">
                         <iframe class="embed-responsive-item" allowtransparency="allowtransparency" frameborder="0" src="data:application/pdf;base64,<?php echo $_SESSION['BASE64'] ?>"></iframe>
                     </div>
                 </div>
@@ -119,7 +115,7 @@ if (!isset($_SESSION['LOGOEMPRESA'])) {
                 <div class="col-sm-12">
                     <div class="alert alert-danger" role="alert">
                         <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                        <strong>Oh!</strong> <?php echo $_SESSION['ERROR']; ?>.
+                        <strong>Oh!</strong> <?php echo $_SESSION['ERROR']; ?>
                     </div>
                 </div>
             </div>

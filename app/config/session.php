@@ -1,7 +1,7 @@
 <?php
 
 $path             = STORAGE . '/sessions';
-$timeout_duration = 10; // Minutos
+$timeout_duration = (int) $configs->sessionout; // Minutos
 
 /** DON'T TOUCH IT !!!! **/
 ini_set('session.gc_probability', 0);

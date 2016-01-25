@@ -1,3 +1,3 @@
 <?php
 
-define('LOGO_EMPRESA', 'intelidata.png');
+define('LOGO_EMPRESA', $apps->logo);

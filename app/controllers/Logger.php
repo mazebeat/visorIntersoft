@@ -15,7 +15,14 @@ class Logger
     {
         try {
             if (!is_writable(self::LOG_FILE)) {
-                die('Log file "' . self::LOG_FILE . '" is not writable for PHP!');
+//                $newFile = fopen(self::LOG_FILE, 'w+');
+//                fclose($newFile);
+                touch(self::LOG_FILE);
+                chmod(self::LOG_FILE, 0777);
+
+                if (!is_writable(self::LOG_FILE)) {
+                    die('Log file "' . self::LOG_FILE . '" is not writable for PHP!');
+                }
             }
 
             if ($log != '') {

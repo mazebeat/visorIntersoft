@@ -25,11 +25,20 @@ class InitProcess
                 $ws = new \WebService();
                 $ws->setDriver($_SESSION['XML']);
                 $ws->callWS();
-                $_SESSION['RESULT'] = $ws->getResult();
-                $_SESSION['ERROR']  = $ws->getError();
+                $result = $ws->getResult();
+                if (isset($result['return'])) {
+                    $_SESSION['RESULT'] = $result['return'];
+                }
+                $_SESSION['ERROR'] = $ws->getError();
 
                 if (is_array($_SESSION['RESULT']) && count($_SESSION['RESULT'])) {
-                    $_SESSION['BASE64'] = $_SESSION['RESULT']['return']['base64'];
+                    if (isset($result['return']['retornoBase64'])) {
+                        $_SESSION['BASE64'] = $result['return']['retornoBase64'];
+                        $_SESSION['ERROR']  = '';
+                    } else {
+                        $_SESSION['BASE64'] = '';
+                        $_SESSION['ERROR']  = $_SESSION['ERROR'] . ' | No se encuentra variable "RetornoBase64"';
+                    }
                 }
             }
 //            var_dump($_SESSION);
@@ -59,4 +68,6 @@ class InitProcess
 
         echo '';
     }
+
+
 }

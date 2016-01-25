@@ -1,13 +1,24 @@
 <?php
-ini_set('display_errors', 1);
 error_reporting(E_ALL);
+
+(!is_null($apps->debug) && !empty($apps->debug) && $apps->debug == 1) ? $debug = true : $debug = false;
+define('DEBUG', $debug);
+
+if (DEBUG == true) {
+    var_dump('Debug Activado');
+    ini_set('display_errors', true);
+//    ini_set('log_errors', false);
+} else {
+    ini_set('display_errors', false);
+//    ini_set('log_errors', true);
+}
 
 date_default_timezone_set('America/Santiago');
 ini_set("max_execution_time", 0);
 
 /** DON'T TOUCH IT !!!! **/
 /* ROUTES */
-define('HOME', $_SERVER['DOCUMENT_ROOT'] . '/');
+define('HOME', $_SERVER['DOCUMENT_ROOT']);
 define('APP', HOME . '/app');
 define('PUBLIC', HOME . '/public');
 define('CONTROLLERS', APP . '/controllers');
