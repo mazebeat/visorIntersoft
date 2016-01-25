@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Polizas>
+    <DatosPoliza>
+        <InformacionPoliza>
+            <numSecuPol>29715345681</numSecuPol>
+            <canalVentas>CORREDORES Y AGENCIAS MULTIPLES</canalVentas>
+            <codigoCompania>3</codigoCompania>
+            <nitCompania>860002180</nitCompania>
+            <nombreCompania>SEGUROS COMERCIALES BOLIVAR</nombreCompania>
+            <codigoRamo>1</codigoRamo>
+            <descripcionRamo>AUTOMOVILES</descripcionRamo>
+            <subproducto>253</subproducto>
+            <descripcionSubproducto>AUTOEMPRESARIAL.</descripcionSubproducto>
+            <codigoProducto>250</codigoProducto>
+            <diasVigenciaCertificado>203</diasVigenciaCertificado>
+            <diasVigenciaPoliza>366</diasVigenciaPoliza>
+            <fechaExpedicion>25112015</fechaExpedicion>
+            <fechaInicialFacturacion>25112015</fechaInicialFacturacion>
+            <fechaFinalFacturacion>15062016</fechaFinalFacturacion>
+            <fechaInicioVigenciaSeguro>15062015</fechaInicioVigenciaSeguro>
+            <fechaFinVigenciaSeguro>15062016</fechaFinVigenciaSeguro>
+            <fechaInicioVigenciaCertificado>25112015</fechaInicioVigenciaCertificado>
+            <fechaFinVigenciaCertificado>15062016</fechaFinVigenciaCertificado>
+            <indClienteImportante>SI</indClienteImportante>
+            <indClienteInfluyente>SI</indClienteInfluyente>
+            <numeroCertificado>75</numeroCertificado>
+            <tipoModificacion>MODIFICACIONES GENERALES WEB</tipoModificacion>
+            <numeroFactura>059</numeroFactura>
+            <numeroPoliza>1020491233609</numeroPoliza>
+            <numeroPolizaAnterior>0</numeroPolizaAnterior>
+            <numeroRefPago>06</numeroRefPago>
+            <observacionesGenerales>SE INCLUYE MOTOCICLETA 0 KM DE PLACAS YIN48D FEE; 25112015 FIV; 25112015 FLP; 20160109</observacionesGenerales>
+            <idTomador>805014351</idTomador>
+            <primerApellidoTomador/>
+            <primerNombreTomador>PLASTICAUCHO COLOMBIA S.A</primerNombreTomador>
+            <segundoApellidoTomador/>
+            <segundoNombreTomador/>
+            <generoTomador> </generoTomador>
+            <telefonoTomador>4858999  EXT: 0  </telefonoTomador>
+            <ciudadTomador>CALI</ciudadTomador>
+            <direccionTomador>CR 35 13 55</direccionTomador>
+            <emailTomador>CHERMOSA@PLASTICAUCHO.COM</emailTomador>
+            <tipoDestinatario>2</tipoDestinatario>
+            <tipoDocumentoTomador>NT</tipoDocumentoTomador>
+            <actividadTomador>Fabricación de otros tipos de calzado, excepto calzado de cuero y piel</actividadTomador>
+            <tipoEnvio>I</tipoEnvio>
+            <tipoMoneda>1</tipoMoneda>
+            <tipoPoliza>C</tipoPoliza>
+            <entidadMarcaCompartida>0</entidadMarcaCompartida>
+            <tipoTasaAutorizada>FACTORES</tipoTasaAutorizada>
+            <periodoFacturacion>ANUAL</periodoFacturacion>
+            <cantidadRiesgos>1</cantidadRiesgos>
+            <primaNetaRiesgo>0</primaNetaRiesgo>
+            <primaEstimadaAnual>291028</primaEstimadaAnual>
+            <valorAseguradoFlota>3250000</valorAseguradoFlota>
+            <totalIvaAsistencia>14437</totalIvaAsistencia>
+            <totalPrimaAsistencia>90233</totalPrimaAsistencia>
+            <totalAsistencia>104670</totalAsistencia>
+            <totalPrimaVehiculoReemplazo>0</totalPrimaVehiculoReemplazo>
+            <totalPrimaNeta>71710</totalPrimaNeta>
+            <totalIvaSeguro>11474</totalIvaSeguro>
+            <totalPrimaSeguro>161943</totalPrimaSeguro>
+            <totalIvaPoliza>25911</totalIvaPoliza>
+            <totalPoliza>187854</totalPoliza>
+            <valorComisionIntermediacion>13847670</valorComisionIntermediacion>
+            <clavePDFPoliza>805014351</clavePDFPoliza>
+            <horaEmisionCertificado>24</horaEmisionCertificado>
+            <horaFinVigenciaCertificado>24</horaFinVigenciaCertificado>
+            <horaFinVigenciaPoliza>24</horaFinVigenciaPoliza>
+            <horaInicioVigenciaPoliza>24</horaInicioVigenciaPoliza>
+            <idPaqueteEmpresarial/>
+            <politicaAseguramiento>0</politicaAseguramiento>
+            <tipoEmpresa/>
+            <idPaquete>7</idPaquete>
+            <textoPagoElectronico/>
+            <textoPagoElectronico1/>
+            <textoPagoElectronico2/>
+            <textoPagoElectronico3/>
+            <fechaLimitePago/>
+            <textoLimitePago/>
+            <primaRiesgoAnual>128870</primaRiesgoAnual>
+            <primaAsistenciaAnual>162158</primaAsistenciaAnual>
+            <primaNetaAnual>291028</primaNetaAnual>
+            <ivaTotalAnual>46564</ivaTotalAnual>
+            <primaTotalAnual>337592</primaTotalAnual>
+            <tipoExtraccion>D</tipoExtraccion>
+            <polizaMulticompania>-</polizaMulticompania>
+            <cuentaCompania>0060-69999644</cuentaCompania>
+            <codigoClausulado/>
+            <codigoNotaTecnica/>
+            <referencia/>
+            <nombreEnvio>PLASTICAUCHO COLOMBIA S.A</nombreEnvio>
+            <direccionEnvio>CR 35 13 55</direccionEnvio>
+            <ciudadEnvio>CALI</ciudadEnvio>
+            <departamentoEnvio>VALLE DEL CAUCA</departamentoEnvio>
+            <telefonoEnvio>4858999  EXT: 0  </telefonoEnvio>
+            <correoElectronicoEnvio>chermosa@plasticaucho.com</correoElectronicoEnvio>
+            <copiaCorreoEnvio/>
+            <notificaCorreo>N</notificaCorreo>
+            <esBanca>N</esBanca>
+        </InformacionPoliza>
+        <DatosRiesgo>
+            <celularAsegurado> </celularAsegurado>
+            <ciudadAsegurado>CALI</ciudadAsegurado>
+            <clavePDFRiesgo/>
+            <codigoAlternativa>17</codigoAlternativa>
+            <departamentoAsegurado> </departamentoAsegurado>
+            <direccionAsegurado>CRA 26 E 90 05</direccionAsegurado>
+            <emailAsegurado> </emailAsegurado>
+            <idAsegurado>1130613554</idAsegurado>
+            <numeroRiesgo>382</numeroRiesgo>
+            <opcionCobertura/>
+            <telefonoAsegurado>3168872955  EXT: 0</telefonoAsegurado>
+            <tipoDocumentoAsegurado>CC</tipoDocumentoAsegurado>
+            <tituloCoberturaContratada>MAXIMA</tituloCoberturaContratada>
+            <valorIvaAsistencia>14437</valorIvaAsistencia>
+            <valorPrimaAsistencia>90233</valorPrimaAsistencia>
+            <valorTotalAsistencia>104670</valorTotalAsistencia>
+            <ivaPoliza>11474</ivaPoliza>
+            <valorPrimaPoliza>71710</valorPrimaPoliza>
+            <valorTotalAPagar>187854</valorTotalAPagar>
+            <primerApellidoAsegurado>GUAZA</primerApellidoAsegurado>
+            <primerNombreAsegurado>VANESSA</primerNombreAsegurado>
+            <segundoApellidoAsegurado>LUCUMI</segundoApellidoAsegurado>
+            <segundoNombreAsegurado> </segundoNombreAsegurado>
+            <codigoCoberturaAsegurado>370</codigoCoberturaAsegurado>
+            <deducibleAsegurado>0%,min. 0</deducibleAsegurado>
+            <descripcionCoberturaAsegurado>Riesgos patrimoniales</descripcionCoberturaAsegurado>
+            <valorModificacion>187854</valorModificacion>
+            <formaPago>Caja de la compañía</formaPago>
+            <cadenaCodigoBarras/>
+            <etiquetaCodigoBarras/>
+            <DatosRiesgoAuto>
+                <apellidosConductorHabitual/>
+                <bonificacionNoReclamacion>0</bonificacionNoReclamacion>
+                <categoriaVehiculo>1</categoriaVehiculo>
+                <color>NEGRO NEBULOSA</color>
+                <descripcionTipoVehiculo>MOTOCICLETA</descripcionTipoVehiculo>
+                <fechaNacConductorHabitual/>
+                <generoConductorHabitual/>
+                <marca>KYMCO UNI-K 110 MT 110CC</marca>
+                <modelo>2016</modelo>
+                <motor>KB222088290</motor>
+                <nombresConductorHabitual/>
+                <numeroCodigoFasecolda>10117015</numeroCodigoFasecolda>
+                <numeroGuiaFasecolda>231</numeroGuiaFasecolda>
+                <otroConductorMenor25>NA</otroConductorMenor25>
+                <placa>YIN48D</placa>
+                <profesionConductorHabitual/>
+                <servicio>PARTICULAR EMP. CON ASIST.</servicio>
+                <subtipoVehiculo>8</subtipoVehiculo>
+                <tipoVehiculo>17</tipoVehiculo>
+                <ubicacion>SANTIAGO DE CALI</ubicacion>
+                <usoVehiculo>40</usoVehiculo>
+                <valorComercialVehiculo>3250000</valorComercialVehiculo>
+                <valorTotalAccesorios>0</valorTotalAccesorios>
+                <valorTotalAsegurado>3250000</valorTotalAsegurado>
+                <vinChasis>9FLE10005GCJ34755 </vinChasis>
+            </DatosRiesgoAuto>
+            <DatosRiesgoAccesorios>
+                <descripcionAccesorio>(4) PARLANTES</descripcionAccesorio>
+                <valorAccesorio>100000</valorAccesorio>
+                <indEquipoOriginal>NO</indEquipoOriginal>
+            </DatosRiesgoAccesorios>
+            <DatosRiesgoAccesorios>
+                <descripcionAccesorio>ALARMA ULTRASONICA</descripcionAccesorio>
+                <valorAccesorio>175000</valorAccesorio>
+                <indEquipoOriginal>NO</indEquipoOriginal>
+            </DatosRiesgoAccesorios>
+            <DatosRiesgoAccesorios>
+                <descripcionAccesorio>PELICULA DE SEGURIDAD</descripcionAccesorio>
+                <valorAccesorio>150000</valorAccesorio>
+                <indEquipoOriginal>NO</indEquipoOriginal>
+            </DatosRiesgoAccesorios>
+            <DatosRiesgoAccesorios>
+                <descripcionAccesorio>RADIO CON C.D.</descripcionAccesorio>
+                <valorAccesorio>250000</valorAccesorio>
+                <indEquipoOriginal>NO</indEquipoOriginal>
+            </DatosRiesgoAccesorios>
+            <DatosRiesgoAccesorios>
+                <descripcionAccesorio>RIN DE MAGNESIO</descripcionAccesorio>
+                <valorAccesorio>1200000</valorAccesorio>
+                <indEquipoOriginal>NO</indEquipoOriginal>
+            </DatosRiesgoAccesorios>
+            <DatosRiesgoBeneficiario>
+                <nombresBeneficiario>VANESSA  </nombresBeneficiario>
+                <apellidosBeneficiario>GUAZA LUCUMI</apellidosBeneficiario>
+                <idBeneficiario>1130613554</idBeneficiario>
+                <emailBeneficiario> </emailBeneficiario>
+                <telefonoBeneficiario>3168872955  EXT: 0</telefonoBeneficiario>
+                <beneficiarioOneroso>NO</beneficiarioOneroso>
+            </DatosRiesgoBeneficiario>
+            <LimitesCoberturasAsegurado>
+                <idLimite>1 Daños a bienes de terceros</idLimite>
+                <valorAseguradoLimite>180 Salarios(s)</valorAseguradoLimite>
+                <deducible>0%,min. 0</deducible>
+                <idResponsabilidad/>
+            </LimitesCoberturasAsegurado>
+            <LimitesCoberturasAsegurado>
+                <idLimite>2 Muerte o lesiones a 1 persona</idLimite>
+                <valorAseguradoLimite>180 Salarios(s)</valorAseguradoLimite>
+                <deducible/>
+                <idResponsabilidad/>
+            </LimitesCoberturasAsegurado>
+            <LimitesCoberturasAsegurado>
+                <idLimite>3 Muerte o lesiones a 2 o más personas</idLimite>
+                <valorAseguradoLimite>360 Salarios(s)</valorAseguradoLimite>
+                <deducible/>
+                <idResponsabilidad/>
+            </LimitesCoberturasAsegurado>
+            <CoberturasRiesgo>
+                <basica/>
+                <codigoCobertura>374</codigoCobertura>
+                <deducibleCobertura>10%,min. 1 Salarios(s)</deducibleCobertura>
+                <codigoCoberturaInformativo/>
+                <descripcionCobertura>0 Hurto parcial y total</descripcionCobertura>
+                <valorCobertura>3250000</valorCobertura>
+                <tipoCobertura>2</tipoCobertura>
+                <claveClausulado/>
+                <notaTecnica1/>
+                <notaTecnica2/>
+            </CoberturasRiesgo>
+            <CoberturasRiesgo>
+                <basica/>
+                <codigoCobertura>372</codigoCobertura>
+                <deducibleCobertura>10%,min. 1 Salarios(s)</deducibleCobertura>
+                <codigoCoberturaInformativo/>
+                <descripcionCobertura>1 Daños parciales</descripcionCobertura>
+                <valorCobertura>3250000</valorCobertura>
+                <tipoCobertura>2</tipoCobertura>
+                <claveClausulado/>
+                <notaTecnica1/>
+                <notaTecnica2/>
+            </CoberturasRiesgo>
+            <CoberturasRiesgo>
+                <basica/>
+                <codigoCobertura>373</codigoCobertura>
+                <deducibleCobertura>Los de daños</deducibleCobertura>
+                <codigoCoberturaInformativo/>
+                <descripcionCobertura>2 Terremoto</descripcionCobertura>
+                <valorCobertura>3250000</valorCobertura>
+                <tipoCobertura>2</tipoCobertura>
+                <claveClausulado/>
+                <notaTecnica1/>
+                <notaTecnica2/>
+            </CoberturasRiesgo>
+            <CoberturasRiesgo>
+                <basica/>
+                <codigoCobertura>371</codigoCobertura>
+                <deducibleCobertura>10%,min. 1 Salarios(s)</deducibleCobertura>
+                <codigoCoberturaInformativo/>
+                <descripcionCobertura>3 Daño total</descripcionCobertura>
+                <valorCobertura>3250000</valorCobertura>
+                <tipoCobertura>2</tipoCobertura>
+                <claveClausulado/>
+                <notaTecnica1/>
+                <notaTecnica2/>
+            </CoberturasRiesgo>
+            <CoberturasRiesgo>
+                <basica/>
+                <codigoCobertura>216</codigoCobertura>
+                <deducibleCobertura>Según condiciones y ciudades con convenio</deducibleCobertura>
+                <codigoCoberturaInformativo/>
+                <descripcionCobertura>4 Asistencia Bolívar</descripcionCobertura>
+                <valorCobertura/>
+                <tipoCobertura>1</tipoCobertura>
+                <claveClausulado/>
+                <notaTecnica1/>
+                <notaTecnica2/>
+            </CoberturasRiesgo>
+            <AnexosRiesgo>
+                <numeroAnexoRiesgo>0403</numeroAnexoRiesgo>
+            </AnexosRiesgo>
+            <TextosCatalogadosRiesgo/>
+        </DatosRiesgo>
+        <DatosIntermediacion>
+            <apellidosIntermediario>GRISALES NARANJO</apellidosIntermediario>
+            <ciudadIntermediario>SANTIAGO DE CALI</ciudadIntermediario>
+            <claveIntermediario>61028</claveIntermediario>
+            <codigoLocalidad>1020</codigoLocalidad>
+            <descripcionLocalidad>CORREDORES CALI</descripcionLocalidad>
+            <emailIntermediario>Felipe.Grisales@hotmail.com</emailIntermediario>
+            <nombreIntermediario>FELIPE  </nombreIntermediario>
+            <porcentajeIntermediario>100</porcentajeIntermediario>
+            <telefonoIntermediario>8833335  EXT: 0 3136146883</telefonoIntermediario>
+            <tipoVinculacion>AGENTE ADMINISTRATIVO</tipoVinculacion>
+            <intermediarioLider>S</intermediarioLider>
+            <porcentajeComision>14</porcentajeComision>
+            <cantidadCopias>0</cantidadCopias>
+        </DatosIntermediacion>
+        <CoaseguroCedido>
+            <nombreCoaseguradora>SEGUROS COMERCIALES BOLIVAR S.A.</nombreCoaseguradora>
+            <porcentaje>80</porcentaje>
+            <valor>2263634</valor>
+            <telefonoCoaseguradora>3410077</telefonoCoaseguradora>
+            <direccionCoaseguradora>KRA 10 # 16 - 39 PISO 2</direccionCoaseguradora>
+            <ciudadCoaseguradora>BOGOTA D.C.</ciudadCoaseguradora>
+            <emailCoaseguradora/>
+        </CoaseguroCedido>
+        <CoaseguroCedido>
+            <nombreCoaseguradora>ALLIANZ COLSEGUROS</nombreCoaseguradora>
+            <porcentaje>20</porcentaje>
+            <valor>565908</valor>
+            <telefonoCoaseguradora>5600600</telefonoCoaseguradora>
+            <direccionCoaseguradora>CARRERA 13 A #29-24/26 PISO 14</direccionCoaseguradora>
+            <ciudadCoaseguradora>BOGOTA D.C.</ciudadCoaseguradora>
+            <emailCoaseguradora/>
+        </CoaseguroCedido>
+        <Destino>
+            <claveDestino>CLIENTE</claveDestino>
+            <copias>1</copias>
+            <ListaCopias>
+                <codPlantilla>0101</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0103</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0201</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0202</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0301</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0401</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0402</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0403</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0408</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0410</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0418</codPlantilla>
+            </ListaCopias>
+            <ListaCopias>
+                <codPlantilla>0502</codPlantilla>
+            </ListaCopias>
+        </Destino>
+        <AnexosPoliza>
+            <numeroAnexoPoliza>0404</numeroAnexoPoliza>
+        </AnexosPoliza>
+    </DatosPoliza>
+</Polizas>
