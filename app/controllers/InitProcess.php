@@ -26,14 +26,14 @@ class InitProcess
                 $ws->setDriver($_SESSION['XML']);
                 $ws->callWS();
                 $result = $ws->getResult();
-                if (isset($result['return'])) {
-                    $_SESSION['RESULT'] = $result['return'];
+                if (isset($result)) {
+                    $_SESSION['RESULT'] = $result;
                 }
                 $_SESSION['ERROR'] = $ws->getError();
 
                 if (is_array($_SESSION['RESULT']) && count($_SESSION['RESULT'])) {
-                    if (isset($result['return']['retornoBase64'])) {
-                        $_SESSION['BASE64'] = $result['return']['retornoBase64'];
+                    if (isset($result['return'])) {
+                        $_SESSION['BASE64'] = $result['return'];
                         $_SESSION['ERROR']  = '';
                     } else {
                         $_SESSION['BASE64'] = '';
@@ -41,7 +41,6 @@ class InitProcess
                     }
                 }
             }
-//            var_dump($_SESSION);
         } catch (Exception $e) {
             Logger::error($e);
         }
